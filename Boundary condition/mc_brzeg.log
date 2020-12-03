@@ -1,0 +1,671 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.8)  2 DEC 2020 13:22
+entering extended mode
+**./mc_brzeg.tex
+(mc_brzeg.tex
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-10-27> xparse <2020-03-03>
+(e:\Users\iksla\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2020/04/10 v1.4m Standard LaTeX document class
+(e:\Users\iksla\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@chapter=\count176
+\c@section=\count177
+\c@subsection=\count178
+\c@subsubsection=\count179
+\c@paragraph=\count180
+\c@subparagraph=\count181
+\c@figure=\count182
+\c@table=\count183
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(e:\Users\iksla\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(e:\Users\iksla\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(e:\Users\iksla\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(e:\Users\iksla\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(e:\Users\iksla\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(e:\Users\iksla\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+) (e:\Users\iksla\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2020/10/27 3.51 The Babel package
+
+(e:\Users\iksla\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2020/10/27 3.51 Babel common definitions
+\babel@savecnt=\count184
+\U@D=\dimen141
+\l@babelnohyphens=\language79
+
+(e:\Users\iksla\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count185
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(e:\Users\iksla\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(e:\Users\iksla\AppData\Local\Programs\MiKTeX\tex/latex/babel-polish\polish.ldf
+Language: polish 2005/03/31 v1.2l Polish support from the babel system
+Package babel Info: Making " an active character on input line 83.
+\pl@left=\dimen142
+\pl@down=\dimen143
+\pl@right=\dimen144
+\pl@temp=\dimen145
+)) (e:\Users\iksla\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(e:\Users\iksla\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+)
+(e:\Users\iksla\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(e:\Users\iksla\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks18
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(e:\Users\iksla\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(e:\Users\iksla\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(e:\Users\iksla\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count186
+\Gm@cntv=\count187
+\c@Gm@tempcnt=\count188
+\Gm@bindingoffset=\dimen146
+\Gm@wd@mp=\dimen147
+\Gm@odd@mp=\dimen148
+\Gm@even@mp=\dimen149
+\Gm@layoutwidth=\dimen150
+\Gm@layoutheight=\dimen151
+\Gm@layouthoffset=\dimen152
+\Gm@layoutvoffset=\dimen153
+\Gm@dimlist=\toks19
+
+(e:\Users\iksla\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(e:\Users\iksla\AppData\Local\Programs\MiKTeX\tex/latex/subfig\subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(e:\Users\iksla\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(e:\Users\iksla\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen154
+\captionmargin@=\dimen155
+\captionwidth=\dimen156
+\caption@tempdima=\dimen157
+\caption@indent=\dimen158
+\caption@parindent=\dimen159
+\caption@hangindent=\dimen160
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count189
+\c@continuedfloat=\count190
+)
+\c@KVtest=\count191
+\sf@farskip=\skip49
+\sf@captopadj=\dimen161
+\sf@capskip=\skip50
+\sf@nearskip=\skip51
+\c@subfigure=\count192
+\c@subfigure@save=\count193
+\c@lofdepth=\count194
+\c@subtable=\count195
+\c@subtable@save=\count196
+\c@lotdepth=\count197
+\sf@top=\skip52
+\sf@bottom=\skip53
+)
+(e:\Users\iksla\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count198
+\l__pdf_internal_box=\box47
+) (mc_brzeg.aux)
+\openout1 = `mc_brzeg.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+
+(e:\Users\iksla\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count199
+\scratchdimen=\dimen162
+\scratchbox=\box48
+\nofMPsegments=\count266
+\nofMParguments=\count267
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count268
+\MPscratchDim=\dimen163
+\MPnumerator=\count269
+\makeMPintoPDFobject=\count270
+\everyMPtoPDFconversion=\toks21
+)
+(e:\Users\iksla\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(36.135pt, 525.23788pt, 36.135pt)
+* v-part:(T,H,B)=(36.135pt, 772.77686pt, 36.135pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=525.23788pt
+* \textheight=772.77686pt
+* \oddsidemargin=-36.135pt
+* \evensidemargin=-36.135pt
+* \topmargin=-73.135pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=0.0pt
+* \marginparsep=0.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+Rozdzia\l  1.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 19.
+
+(e:\Users\iksla\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 19.
+
+
+(e:\Users\iksla\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+[1
+
+
+{C:/Users/iksla/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+Rozdzia\l  2.
+<plots/0/mc0_3_075.png, id=17, 481.8pt x 361.35pt>
+File: plots/0/mc0_3_075.png Graphic file (type png)
+<use plots/0/mc0_3_075.png>
+Package pdftex.def Info: plots/0/mc0_3_075.png  used on input line 43.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/0/mc0_3_075_dif.png, id=18, 481.8pt x 361.35pt>
+File: plots/0/mc0_3_075_dif.png Graphic file (type png)
+<use plots/0/mc0_3_075_dif.png>
+Package pdftex.def Info: plots/0/mc0_3_075_dif.png  used on input line 43.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/0/mc0_5_075_dif.png, id=19, 481.8pt x 361.35pt>
+File: plots/0/mc0_5_075_dif.png Graphic file (type png)
+<use plots/0/mc0_5_075_dif.png>
+Package pdftex.def Info: plots/0/mc0_5_075_dif.png  used on input line 43.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/0/mc0_3_10.png, id=20, 481.8pt x 361.35pt>
+File: plots/0/mc0_3_10.png Graphic file (type png)
+<use plots/0/mc0_3_10.png>
+Package pdftex.def Info: plots/0/mc0_3_10.png  used on input line 44.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/0/mc0_3_10_dif.png, id=21, 481.8pt x 361.35pt>
+File: plots/0/mc0_3_10_dif.png Graphic file (type png)
+<use plots/0/mc0_3_10_dif.png>
+Package pdftex.def Info: plots/0/mc0_3_10_dif.png  used on input line 44.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/0/mc0_5_10_dif.png, id=22, 481.8pt x 361.35pt>
+File: plots/0/mc0_5_10_dif.png Graphic file (type png)
+<use plots/0/mc0_5_10_dif.png>
+Package pdftex.def Info: plots/0/mc0_5_10_dif.png  used on input line 44.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/0/mc0_3_15.png, id=23, 481.8pt x 361.35pt>
+File: plots/0/mc0_3_15.png Graphic file (type png)
+<use plots/0/mc0_3_15.png>
+Package pdftex.def Info: plots/0/mc0_3_15.png  used on input line 45.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/0/mc0_3_15_dif.png, id=24, 481.8pt x 361.35pt>
+File: plots/0/mc0_3_15_dif.png Graphic file (type png)
+<use plots/0/mc0_3_15_dif.png>
+Package pdftex.def Info: plots/0/mc0_3_15_dif.png  used on input line 45.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/0/mc0_5_15_dif.png, id=25, 481.8pt x 361.35pt>
+File: plots/0/mc0_5_15_dif.png Graphic file (type png)
+<use plots/0/mc0_5_15_dif.png>
+Package pdftex.def Info: plots/0/mc0_5_15_dif.png  used on input line 45.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/0/mc0_3_25.png, id=26, 481.8pt x 361.35pt>
+File: plots/0/mc0_3_25.png Graphic file (type png)
+<use plots/0/mc0_3_25.png>
+Package pdftex.def Info: plots/0/mc0_3_25.png  used on input line 46.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/0/mc0_3_25_dif.png, id=27, 481.8pt x 361.35pt>
+File: plots/0/mc0_3_25_dif.png Graphic file (type png)
+<use plots/0/mc0_3_25_dif.png>
+Package pdftex.def Info: plots/0/mc0_3_25_dif.png  used on input line 46.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/0/mc0_5_25_dif.png, id=28, 481.8pt x 361.35pt>
+File: plots/0/mc0_5_25_dif.png Graphic file (type png)
+<use plots/0/mc0_5_25_dif.png>
+Package pdftex.def Info: plots/0/mc0_5_25_dif.png  used on input line 46.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/0/mc0_3_35.png, id=29, 481.8pt x 361.35pt>
+File: plots/0/mc0_3_35.png Graphic file (type png)
+<use plots/0/mc0_3_35.png>
+Package pdftex.def Info: plots/0/mc0_3_35.png  used on input line 47.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/0/mc0_3_35_dif.png, id=30, 481.8pt x 361.35pt>
+File: plots/0/mc0_3_35_dif.png Graphic file (type png)
+<use plots/0/mc0_3_35_dif.png>
+Package pdftex.def Info: plots/0/mc0_3_35_dif.png  used on input line 47.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/0/mc0_5_35_dif.png, id=31, 481.8pt x 361.35pt>
+File: plots/0/mc0_5_35_dif.png Graphic file (type png)
+<use plots/0/mc0_5_35_dif.png>
+Package pdftex.def Info: plots/0/mc0_5_35_dif.png  used on input line 47.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+[2
+
+] [3 <./plots/0/mc0_3_075.png> <./plots/0/mc0_3_075_dif.png> <./plots/0/mc0_5_0
+75_dif.png> <./plots/0/mc0_3_10.png> <./plots/0/mc0_3_10_dif.png> <./plots/0/mc
+0_5_10_dif.png> <./plots/0/mc0_3_15.png> <./plots/0/mc0_3_15_dif.png> <./plots/
+0/mc0_5_15_dif.png> <./plots/0/mc0_3_25.png> <./plots/0/mc0_3_25_dif.png> <./pl
+ots/0/mc0_5_25_dif.png> <./plots/0/mc0_3_35.png> <./plots/0/mc0_3_35_dif.png> <
+./plots/0/mc0_5_35_dif.png>]
+<plots/1/mc1_3_075.png, id=53, 481.8pt x 361.35pt>
+File: plots/1/mc1_3_075.png Graphic file (type png)
+<use plots/1/mc1_3_075.png>
+Package pdftex.def Info: plots/1/mc1_3_075.png  used on input line 55.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/1/mc1_3_075_dif.png, id=54, 481.8pt x 361.35pt>
+File: plots/1/mc1_3_075_dif.png Graphic file (type png)
+<use plots/1/mc1_3_075_dif.png>
+Package pdftex.def Info: plots/1/mc1_3_075_dif.png  used on input line 55.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/1/mc1_5_075_dif.png, id=55, 481.8pt x 361.35pt>
+File: plots/1/mc1_5_075_dif.png Graphic file (type png)
+<use plots/1/mc1_5_075_dif.png>
+Package pdftex.def Info: plots/1/mc1_5_075_dif.png  used on input line 55.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/1/mc1_3_10.png, id=56, 481.8pt x 361.35pt>
+File: plots/1/mc1_3_10.png Graphic file (type png)
+<use plots/1/mc1_3_10.png>
+Package pdftex.def Info: plots/1/mc1_3_10.png  used on input line 56.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/1/mc1_3_10_dif.png, id=57, 481.8pt x 361.35pt>
+File: plots/1/mc1_3_10_dif.png Graphic file (type png)
+<use plots/1/mc1_3_10_dif.png>
+Package pdftex.def Info: plots/1/mc1_3_10_dif.png  used on input line 56.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/1/mc1_5_10_dif.png, id=58, 481.8pt x 361.35pt>
+File: plots/1/mc1_5_10_dif.png Graphic file (type png)
+<use plots/1/mc1_5_10_dif.png>
+Package pdftex.def Info: plots/1/mc1_5_10_dif.png  used on input line 56.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/1/mc1_3_15.png, id=59, 481.8pt x 361.35pt>
+File: plots/1/mc1_3_15.png Graphic file (type png)
+<use plots/1/mc1_3_15.png>
+Package pdftex.def Info: plots/1/mc1_3_15.png  used on input line 57.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/1/mc1_3_15_dif.png, id=60, 481.8pt x 361.35pt>
+File: plots/1/mc1_3_15_dif.png Graphic file (type png)
+<use plots/1/mc1_3_15_dif.png>
+Package pdftex.def Info: plots/1/mc1_3_15_dif.png  used on input line 57.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/1/mc1_5_15_dif.png, id=61, 481.8pt x 361.35pt>
+File: plots/1/mc1_5_15_dif.png Graphic file (type png)
+<use plots/1/mc1_5_15_dif.png>
+Package pdftex.def Info: plots/1/mc1_5_15_dif.png  used on input line 57.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/1/mc1_3_25.png, id=62, 481.8pt x 361.35pt>
+File: plots/1/mc1_3_25.png Graphic file (type png)
+<use plots/1/mc1_3_25.png>
+Package pdftex.def Info: plots/1/mc1_3_25.png  used on input line 58.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/1/mc1_3_25_dif.png, id=63, 481.8pt x 361.35pt>
+File: plots/1/mc1_3_25_dif.png Graphic file (type png)
+<use plots/1/mc1_3_25_dif.png>
+Package pdftex.def Info: plots/1/mc1_3_25_dif.png  used on input line 58.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/1/mc1_5_25_dif.png, id=64, 481.8pt x 361.35pt>
+File: plots/1/mc1_5_25_dif.png Graphic file (type png)
+<use plots/1/mc1_5_25_dif.png>
+Package pdftex.def Info: plots/1/mc1_5_25_dif.png  used on input line 58.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/1/mc1_3_35.png, id=65, 481.8pt x 361.35pt>
+File: plots/1/mc1_3_35.png Graphic file (type png)
+<use plots/1/mc1_3_35.png>
+Package pdftex.def Info: plots/1/mc1_3_35.png  used on input line 59.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/1/mc1_3_35_dif.png, id=66, 481.8pt x 361.35pt>
+File: plots/1/mc1_3_35_dif.png Graphic file (type png)
+<use plots/1/mc1_3_35_dif.png>
+Package pdftex.def Info: plots/1/mc1_3_35_dif.png  used on input line 59.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/1/mc1_5_35_dif.png, id=67, 481.8pt x 361.35pt>
+File: plots/1/mc1_5_35_dif.png Graphic file (type png)
+<use plots/1/mc1_5_35_dif.png>
+Package pdftex.def Info: plots/1/mc1_5_35_dif.png  used on input line 59.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/9/mc9_3_075.png, id=68, 481.8pt x 361.35pt>
+File: plots/9/mc9_3_075.png Graphic file (type png)
+<use plots/9/mc9_3_075.png>
+Package pdftex.def Info: plots/9/mc9_3_075.png  used on input line 67.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/9/mc9_3_075_dif.png, id=69, 481.8pt x 361.35pt>
+File: plots/9/mc9_3_075_dif.png Graphic file (type png)
+<use plots/9/mc9_3_075_dif.png>
+Package pdftex.def Info: plots/9/mc9_3_075_dif.png  used on input line 67.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/9/mc9_5_075_dif.png, id=70, 481.8pt x 361.35pt>
+File: plots/9/mc9_5_075_dif.png Graphic file (type png)
+<use plots/9/mc9_5_075_dif.png>
+Package pdftex.def Info: plots/9/mc9_5_075_dif.png  used on input line 67.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/9/mc9_3_10.png, id=71, 481.8pt x 361.35pt>
+File: plots/9/mc9_3_10.png Graphic file (type png)
+<use plots/9/mc9_3_10.png>
+Package pdftex.def Info: plots/9/mc9_3_10.png  used on input line 68.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/9/mc9_3_10_dif.png, id=72, 481.8pt x 361.35pt>
+File: plots/9/mc9_3_10_dif.png Graphic file (type png)
+<use plots/9/mc9_3_10_dif.png>
+Package pdftex.def Info: plots/9/mc9_3_10_dif.png  used on input line 68.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/9/mc9_5_10_dif.png, id=73, 481.8pt x 361.35pt>
+File: plots/9/mc9_5_10_dif.png Graphic file (type png)
+<use plots/9/mc9_5_10_dif.png>
+Package pdftex.def Info: plots/9/mc9_5_10_dif.png  used on input line 68.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/9/mc9_3_15.png, id=74, 481.8pt x 361.35pt>
+File: plots/9/mc9_3_15.png Graphic file (type png)
+<use plots/9/mc9_3_15.png>
+Package pdftex.def Info: plots/9/mc9_3_15.png  used on input line 69.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/9/mc9_3_15_dif.png, id=75, 481.8pt x 361.35pt>
+File: plots/9/mc9_3_15_dif.png Graphic file (type png)
+<use plots/9/mc9_3_15_dif.png>
+Package pdftex.def Info: plots/9/mc9_3_15_dif.png  used on input line 69.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/9/mc9_5_15_dif.png, id=76, 481.8pt x 361.35pt>
+File: plots/9/mc9_5_15_dif.png Graphic file (type png)
+<use plots/9/mc9_5_15_dif.png>
+Package pdftex.def Info: plots/9/mc9_5_15_dif.png  used on input line 69.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/9/mc9_3_25.png, id=77, 481.8pt x 361.35pt>
+File: plots/9/mc9_3_25.png Graphic file (type png)
+<use plots/9/mc9_3_25.png>
+Package pdftex.def Info: plots/9/mc9_3_25.png  used on input line 70.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/9/mc9_3_25_dif.png, id=78, 481.8pt x 361.35pt>
+File: plots/9/mc9_3_25_dif.png Graphic file (type png)
+<use plots/9/mc9_3_25_dif.png>
+Package pdftex.def Info: plots/9/mc9_3_25_dif.png  used on input line 70.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/9/mc9_5_25_dif.png, id=79, 481.8pt x 361.35pt>
+File: plots/9/mc9_5_25_dif.png Graphic file (type png)
+<use plots/9/mc9_5_25_dif.png>
+Package pdftex.def Info: plots/9/mc9_5_25_dif.png  used on input line 70.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/9/mc9_3_35.png, id=80, 481.8pt x 361.35pt>
+File: plots/9/mc9_3_35.png Graphic file (type png)
+<use plots/9/mc9_3_35.png>
+Package pdftex.def Info: plots/9/mc9_3_35.png  used on input line 71.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/9/mc9_3_35_dif.png, id=81, 481.8pt x 361.35pt>
+File: plots/9/mc9_3_35_dif.png Graphic file (type png)
+<use plots/9/mc9_3_35_dif.png>
+Package pdftex.def Info: plots/9/mc9_3_35_dif.png  used on input line 71.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/9/mc9_5_35_dif.png, id=82, 481.8pt x 361.35pt>
+File: plots/9/mc9_5_35_dif.png Graphic file (type png)
+<use plots/9/mc9_5_35_dif.png>
+Package pdftex.def Info: plots/9/mc9_5_35_dif.png  used on input line 71.
+(pdftex.def)             Requested size: 156.49014pt x 117.36568pt.
+<plots/27/mc27_3_075.png, id=83, 481.8pt x 361.35pt>
+File: plots/27/mc27_3_075.png Graphic file (type png)
+<use plots/27/mc27_3_075.png>
+Package pdftex.def Info: plots/27/mc27_3_075.png  used on input line 79.
+(pdftex.def)             Requested size: 128.0374pt x 96.02747pt.
+<plots/27/closeup/mc27_3_075.png, id=84, 481.8pt x 361.35pt>
+File: plots/27/closeup/mc27_3_075.png Graphic file (type png)
+<use plots/27/closeup/mc27_3_075.png>
+Package pdftex.def Info: plots/27/closeup/mc27_3_075.png  used on input line 80
+.
+(pdftex.def)             Requested size: 128.0374pt x 96.02747pt.
+<plots/27/mc27_3_075_dif.png, id=85, 481.8pt x 361.35pt>
+File: plots/27/mc27_3_075_dif.png Graphic file (type png)
+<use plots/27/mc27_3_075_dif.png>
+Package pdftex.def Info: plots/27/mc27_3_075_dif.png  used on input line 80.
+(pdftex.def)             Requested size: 128.0374pt x 96.02747pt.
+<plots/27/mc27_5_075_dif.png, id=86, 481.8pt x 361.35pt>
+File: plots/27/mc27_5_075_dif.png Graphic file (type png)
+<use plots/27/mc27_5_075_dif.png>
+Package pdftex.def Info: plots/27/mc27_5_075_dif.png  used on input line 80.
+(pdftex.def)             Requested size: 128.0374pt x 96.02747pt.
+<plots/27/mc27_3_10.png, id=87, 481.8pt x 361.35pt>
+File: plots/27/mc27_3_10.png Graphic file (type png)
+<use plots/27/mc27_3_10.png>
+Package pdftex.def Info: plots/27/mc27_3_10.png  used on input line 81.
+(pdftex.def)             Requested size: 128.0374pt x 96.02747pt.
+<plots/27/closeup/mc27_3_10.png, id=88, 481.8pt x 361.35pt>
+File: plots/27/closeup/mc27_3_10.png Graphic file (type png)
+<use plots/27/closeup/mc27_3_10.png>
+Package pdftex.def Info: plots/27/closeup/mc27_3_10.png  used on input line 82.
+
+(pdftex.def)             Requested size: 128.0374pt x 96.02747pt.
+<plots/27/mc27_3_10_dif.png, id=89, 481.8pt x 361.35pt>
+File: plots/27/mc27_3_10_dif.png Graphic file (type png)
+<use plots/27/mc27_3_10_dif.png>
+Package pdftex.def Info: plots/27/mc27_3_10_dif.png  used on input line 82.
+(pdftex.def)             Requested size: 128.0374pt x 96.02747pt.
+<plots/27/mc27_5_10_dif.png, id=90, 481.8pt x 361.35pt>
+File: plots/27/mc27_5_10_dif.png Graphic file (type png)
+<use plots/27/mc27_5_10_dif.png>
+Package pdftex.def Info: plots/27/mc27_5_10_dif.png  used on input line 82.
+(pdftex.def)             Requested size: 128.0374pt x 96.02747pt.
+<plots/27/mc27_3_15.png, id=91, 481.8pt x 361.35pt>
+File: plots/27/mc27_3_15.png Graphic file (type png)
+<use plots/27/mc27_3_15.png>
+Package pdftex.def Info: plots/27/mc27_3_15.png  used on input line 83.
+(pdftex.def)             Requested size: 128.0374pt x 96.02747pt.
+<plots/27/closeup/mc27_3_15.png, id=92, 481.8pt x 361.35pt>
+File: plots/27/closeup/mc27_3_15.png Graphic file (type png)
+<use plots/27/closeup/mc27_3_15.png>
+Package pdftex.def Info: plots/27/closeup/mc27_3_15.png  used on input line 84.
+
+(pdftex.def)             Requested size: 128.0374pt x 96.02747pt.
+<plots/27/mc27_3_15_dif.png, id=93, 481.8pt x 361.35pt>
+File: plots/27/mc27_3_15_dif.png Graphic file (type png)
+<use plots/27/mc27_3_15_dif.png>
+Package pdftex.def Info: plots/27/mc27_3_15_dif.png  used on input line 84.
+(pdftex.def)             Requested size: 128.0374pt x 96.02747pt.
+<plots/27/mc27_5_15_dif.png, id=94, 481.8pt x 361.35pt>
+File: plots/27/mc27_5_15_dif.png Graphic file (type png)
+<use plots/27/mc27_5_15_dif.png>
+Package pdftex.def Info: plots/27/mc27_5_15_dif.png  used on input line 84.
+(pdftex.def)             Requested size: 128.0374pt x 96.02747pt.
+<plots/27/mc27_3_25.png, id=95, 481.8pt x 361.35pt>
+File: plots/27/mc27_3_25.png Graphic file (type png)
+<use plots/27/mc27_3_25.png>
+Package pdftex.def Info: plots/27/mc27_3_25.png  used on input line 85.
+(pdftex.def)             Requested size: 128.0374pt x 96.02747pt.
+<plots/27/closeup/mc27_3_25.png, id=96, 481.8pt x 361.35pt>
+File: plots/27/closeup/mc27_3_25.png Graphic file (type png)
+<use plots/27/closeup/mc27_3_25.png>
+Package pdftex.def Info: plots/27/closeup/mc27_3_25.png  used on input line 86.
+
+(pdftex.def)             Requested size: 128.0374pt x 96.02747pt.
+<plots/27/mc27_3_25_dif.png, id=97, 481.8pt x 361.35pt>
+File: plots/27/mc27_3_25_dif.png Graphic file (type png)
+<use plots/27/mc27_3_25_dif.png>
+Package pdftex.def Info: plots/27/mc27_3_25_dif.png  used on input line 86.
+(pdftex.def)             Requested size: 128.0374pt x 96.02747pt.
+<plots/27/mc27_5_25_dif.png, id=98, 481.8pt x 361.35pt>
+File: plots/27/mc27_5_25_dif.png Graphic file (type png)
+<use plots/27/mc27_5_25_dif.png>
+Package pdftex.def Info: plots/27/mc27_5_25_dif.png  used on input line 86.
+(pdftex.def)             Requested size: 128.0374pt x 96.02747pt.
+<plots/27/mc27_3_35.png, id=99, 481.8pt x 361.35pt>
+File: plots/27/mc27_3_35.png Graphic file (type png)
+<use plots/27/mc27_3_35.png>
+Package pdftex.def Info: plots/27/mc27_3_35.png  used on input line 87.
+(pdftex.def)             Requested size: 128.0374pt x 96.02747pt.
+<plots/27/closeup/mc27_3_35.png, id=100, 481.8pt x 361.35pt>
+File: plots/27/closeup/mc27_3_35.png Graphic file (type png)
+<use plots/27/closeup/mc27_3_35.png>
+Package pdftex.def Info: plots/27/closeup/mc27_3_35.png  used on input line 88.
+
+(pdftex.def)             Requested size: 128.0374pt x 96.02747pt.
+<plots/27/mc27_3_35_dif.png, id=101, 481.8pt x 361.35pt>
+File: plots/27/mc27_3_35_dif.png Graphic file (type png)
+<use plots/27/mc27_3_35_dif.png>
+Package pdftex.def Info: plots/27/mc27_3_35_dif.png  used on input line 88.
+(pdftex.def)             Requested size: 128.0374pt x 96.02747pt.
+<plots/27/mc27_5_35_dif.png, id=102, 481.8pt x 361.35pt>
+File: plots/27/mc27_5_35_dif.png Graphic file (type png)
+<use plots/27/mc27_5_35_dif.png>
+Package pdftex.def Info: plots/27/mc27_5_35_dif.png  used on input line 88.
+(pdftex.def)             Requested size: 128.0374pt x 96.02747pt.
+
+Overfull \hbox (34.91177pt too wide) in paragraph at lines 78--90
+[][] 
+ []
+
+[4 <./plots/1/mc1_3_075.png> <./plots/1/mc1_3_075_dif.png> <./plots/1/mc1_5_075
+_dif.png> <./plots/1/mc1_3_10.png> <./plots/1/mc1_3_10_dif.png> <./plots/1/mc1_
+5_10_dif.png> <./plots/1/mc1_3_15.png> <./plots/1/mc1_3_15_dif.png> <./plots/1/
+mc1_5_15_dif.png> <./plots/1/mc1_3_25.png> <./plots/1/mc1_3_25_dif.png> <./plot
+s/1/mc1_5_25_dif.png> <./plots/1/mc1_3_35.png> <./plots/1/mc1_3_35_dif.png> <./
+plots/1/mc1_5_35_dif.png>] [5 <./plots/9/mc9_3_075.png> <./plots/9/mc9_3_075_di
+f.png> <./plots/9/mc9_5_075_dif.png> <./plots/9/mc9_3_10.png> <./plots/9/mc9_3_
+10_dif.png> <./plots/9/mc9_5_10_dif.png> <./plots/9/mc9_3_15.png> <./plots/9/mc
+9_3_15_dif.png> <./plots/9/mc9_5_15_dif.png> <./plots/9/mc9_3_25.png> <./plots/
+9/mc9_3_25_dif.png> <./plots/9/mc9_5_25_dif.png> <./plots/9/mc9_3_35.png> <./pl
+ots/9/mc9_3_35_dif.png> <./plots/9/mc9_5_35_dif.png>] [6 <./plots/27/mc27_3_075
+.png> <./plots/27/closeup/mc27_3_075.png> <./plots/27/mc27_3_075_dif.png> <./pl
+ots/27/mc27_5_075_dif.png> <./plots/27/mc27_3_10.png> <./plots/27/closeup/mc27_
+3_10.png> <./plots/27/mc27_3_10_dif.png> <./plots/27/mc27_5_10_dif.png> <./plot
+s/27/mc27_3_15.png> <./plots/27/closeup/mc27_3_15.png> <./plots/27/mc27_3_15_di
+f.png> <./plots/27/mc27_5_15_dif.png> <./plots/27/mc27_3_25.png> <./plots/27/cl
+oseup/mc27_3_25.png> <./plots/27/mc27_3_25_dif.png> <./plots/27/mc27_5_25_dif.p
+ng> <./plots/27/mc27_3_35.png> <./plots/27/closeup/mc27_3_35.png> <./plots/27/m
+c27_3_35_dif.png> <./plots/27/mc27_5_35_dif.png>]
+Rozdzia\l  3.
+<zad4/zad4_0.png, id=162, 481.8pt x 361.35pt>
+File: zad4/zad4_0.png Graphic file (type png)
+<use zad4/zad4_0.png>
+Package pdftex.def Info: zad4/zad4_0.png  used on input line 98.
+(pdftex.def)             Requested size: 213.39566pt x 160.0421pt.
+<zad4/zad4_1.png, id=163, 481.8pt x 361.35pt>
+File: zad4/zad4_1.png Graphic file (type png)
+<use zad4/zad4_1.png>
+Package pdftex.def Info: zad4/zad4_1.png  used on input line 98.
+(pdftex.def)             Requested size: 213.39566pt x 160.0421pt.
+<zad4/zad4_3.png, id=164, 481.8pt x 361.35pt>
+File: zad4/zad4_3.png Graphic file (type png)
+<use zad4/zad4_3.png>
+Package pdftex.def Info: zad4/zad4_3.png  used on input line 99.
+(pdftex.def)             Requested size: 213.39566pt x 160.0421pt.
+<zad4/zad4_9.png, id=165, 481.8pt x 361.35pt>
+File: zad4/zad4_9.png Graphic file (type png)
+<use zad4/zad4_9.png>
+Package pdftex.def Info: zad4/zad4_9.png  used on input line 99.
+(pdftex.def)             Requested size: 213.39566pt x 160.0421pt.
+<zad4/zad4_27.png, id=166, 481.8pt x 361.35pt>
+File: zad4/zad4_27.png Graphic file (type png)
+<use zad4/zad4_27.png>
+Package pdftex.def Info: zad4/zad4_27.png  used on input line 100.
+(pdftex.def)             Requested size: 213.39566pt x 160.0421pt.
+[7
+
+] [8 <./zad4/zad4_0.png> <./zad4/zad4_1.png> <./zad4/zad4_3.png> <./zad4/zad4_9
+.png> <./zad4/zad4_27.png>] (mc_brzeg.aux) ) 
+Here is how much of TeX's memory you used:
+ 4846 strings out of 479799
+ 81540 string characters out of 2869723
+ 366510 words of memory out of 3000000
+ 21734 multiletter control sequences out of 15000+200000
+ 544372 words of font info for 53 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 66i,11n,76p,313b,331s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\iksla\AppData\Local\MiKT
+eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\iksla\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\iksla\AppDat
+a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\iksla\
+AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk><e:/Users/i
+ksla/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><e
+:/Users/iksla/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi
+10.pfb><e:/Users/iksla/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmmi8.pfb><e:/Users/iksla/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmr10.pfb><e:/Users/iksla/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmr8.pfb><e:/Users/iksla/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmsy10.pfb><e:/Users/iksla/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><e:/Users/iksla/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on mc_brzeg.pdf (8 pages, 977923 bytes).
+PDF statistics:
+ 309 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 351 words of extra memory for PDF output out of 10000 (max. 10000000)
+
