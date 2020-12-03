@@ -23,6 +23,10 @@ void calculateForGivenF0(double f0, char * fileName, FILE * table, double nomega
 	x0 = 0.0; xmax = 2; 
 	dx = 2*xmax / SIZE;
 	sigma = 20*dx;
+	
+	x0 = 0.0; xmax = 2; 
+	dx = 2*xmax / SIZE;
+	sigma = 20*dx;
 
 	t0 = 7.5 * 1.0E-9; sigma0 = 0.75 * 1.0E-9;
 	L = 0.25 * 1.0E-6;
@@ -48,7 +52,8 @@ void calculateForGivenF0(double f0, char * fileName, FILE * table, double nomega
 	gamma_out = (Rout - R0) / (Rout + R0);
 	ksi = R0 / (R0 + Rin);
 	
-	for(x = 0; x <= xmax; x += dx){
+	//for(x = 0; x <= xmax; x += dx){
+	for(x = 1.928; x <= xmax; x += dx){
 		printf("%g\n", x);
 		fprintf(out, "%.5g ", x);
 		for (i = 0; i < 7; i++){
@@ -86,7 +91,7 @@ void calculateForGivenF0(double f0, char * fileName, FILE * table, double nomega
 
 int main(){
 	FILE * table;
-	table = fopen("out_table2.txt", "w");
+	table = fopen("out_table.txt", "w");
 	fprintf(table, "f0 tmax N ||UA - Unum||inf\n");
 	
 	double f0_0, f0_1, f0_3, f0_9, f0_27;
@@ -97,11 +102,11 @@ int main(){
 	f0_27 = 27.0E+9;
 	nomega = 1000; nomega27 = 2500;
 	
-	calculateForGivenF0(f0_0, "out0.txt", table, nomega);
-	calculateForGivenF0(f0_1, "out1.txt", table, nomega);
-	calculateForGivenF0(f0_3, "out3.txt", table, nomega);
-	calculateForGivenF0(f0_9, "out9.txt", table, nomega);
-	calculateForGivenF0(f0_27, "out27.txt", table, nomega27);
+	//calculateForGivenF0(f0_0, "out0.txt", table, nomega); <- już policzone, 10*0 = 0
+	//calculateForGivenF0(f0_1, "out1.txt", table, nomega);
+	//calculateForGivenF0(f0_3, "out3.txt", table, nomega);
+	//calculateForGivenF0(f0_9, "out9.txt", table, nomega);
+	calculateForGivenF0(f0_27, "out27a.txt", table, nomega27);
 	
 	fclose(table);
 }
